@@ -47,7 +47,7 @@
 
 ### Speaker
 
-![speaker wiring](speaker.jpg)
+![speaker wiring](speaker.png)
 
 |R1 |Vout or Vu |
 |---|---        |
