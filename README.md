@@ -77,6 +77,10 @@ The Smart Hat is controlled by the Mbed LPC1768 microcontroller. Connected to th
 
 ## Schematic and Connection Guide
 
+[Schematic_4180 Smart Hat_2023-12-07 (1).pdf](https://github.com/Pengyu-Mo/ECE-4180-Final-Project/files/13619172/Schematic_4180.Smart.Hat_2023-12-07.1.pdf)
+
+
+
 Here is a picture of our fully assembled hat.
 
 <p align="center">
