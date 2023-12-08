@@ -16,7 +16,7 @@
 
 We want to develop a smart hat designed to integrate a range of Internet of Things (IoT) functionalities. This hat features an ultra-thin LCD (uLCD) screen on the brim for displaying information. To ensure the wearer is prepared for various weather conditions, we have included a temperature sensor and a rain detection sensor. Additionally, a speaker is incorporated to emit sounds, particularly useful when the rain sensor activates, indicating conditions where wearing the device might be unsuitable. For navigation and orientation assistance, an inertial measurement unit (IMU) tracks the wearer's movement and direction. On the side of the hat, there is a fan that activates to provide cooling when needed. All these functionalities are Bluetooth-enabled, allowing for convenient control and management through a phone or other device. Our design aims to create a hat that easily integrates into daily life while offering high functionality and convenience.
 
-Project Video: [![Project Video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://youtu.be/hd9vFIxSbDE))]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/hd9vFIxSbDE))
+**Project Video:** [Link to the video](https://youtu.be/hd9vFIxSbDE)
 
 <p align="center">
   <img src="https://github.com/Pengyu-Mo/ECE-4180-Final-Project/blob/main/Wearing.jpg" alt="Wearing" width="70%">
